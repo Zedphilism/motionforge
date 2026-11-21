@@ -1,0 +1,6 @@
+{
+  "name": "MOTIONFORGE",
+  "description": "AI-powered video generation, programmatic motion graphics, 3D visualisation, and multitrack browser video production studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
